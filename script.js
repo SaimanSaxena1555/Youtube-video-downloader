@@ -1,5 +1,3 @@
-  const e = require("cors");
-
   function getCurrentPage() {
     const bodyid = document.body.id;
 
